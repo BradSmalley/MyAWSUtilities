@@ -1,4 +1,4 @@
-package com.bradsmalley.AWSUtilities;
+package com.bradsmalley.aws;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

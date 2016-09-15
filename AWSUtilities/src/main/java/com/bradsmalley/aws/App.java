@@ -1,4 +1,4 @@
-package com.bradsmalley.AWSUtilities;
+package com.bradsmalley.aws;
 
 public class App 
 {

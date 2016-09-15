@@ -36,7 +36,7 @@ public class CreateMassBlockScript
     	
     	Map<String, Set<String>> ipMap = new HashMap<String, Set<String>>();	
     	
-        File logFile = new File("C:\\data\\auth.log");
+        File logFile = new File("/var/log/auth.log");
         BufferedReader br = null;
         
         try {
